@@ -1,0 +1,10 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyCzfIn1W7pGghQDQnGq4Cso63p1mq37p3g",
+  authDomain: "amiloitlogger.firebaseapp.com",
+  databaseURL: "https://amiloitlogger-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "amiloitlogger",
+  storageBucket: "amiloitlogger.appspot.com",
+  messagingSenderId: "322541871132",
+  appId: "1:322541871132:web:0a9b0053c152bb26b9bfd9",
+  measurementId: "G-R2CN9S2FY8"
+};
